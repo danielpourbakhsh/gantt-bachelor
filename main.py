@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.dates as mdates
 
-#test
 data = [
     ("Kick-off / Exposé-Anmeldung", "2026-04-22", "2026-04-22", "milestone"),
     ("Replikation BA Moritz Schäfer", "2026-04-22", "2026-04-30", "task"),
@@ -16,7 +15,7 @@ data = [
     ("Dokumentation Projektanforderungen", "2026-04-22", "2026-05-22", "task"),
     ("Exposé-Abgabe", "2026-05-22", "2026-05-22", "milestone"),
     ("Exposé-Verteidigung", "2026-05-27", "2026-05-27", "milestone"),
-    ("Umzug", "2026-06-01", "2026-06-14", "task"),
+    #("Umzug", "2026-06-01", "2026-06-14", "task"),
     ("Anmeldung Bachelorarbeit", "2026-06-14", "2026-06-14", "milestone"),
     ("Einarbeitung C#", "2026-06-15", "2026-06-28", "task"),
     ("Implementierung GDB-Start- und Steuerungsmodul", "2026-06-22", "2026-07-19", "task"),
