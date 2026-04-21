@@ -79,7 +79,10 @@ ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=mdates.MO, interval=1
 ax.xaxis.set_major_formatter(mdates.DateFormatter("KW %V\n%d.%m.%Y"))
 
 ax.set_xlabel("Kalenderwochen")
-ax.set_title("Projektplanung Bachelorprojekt: Debug-Plugin für SVNR in OneWare")
+#ax.set_title("Projektplanung Bachelorprojekt: Debug-Plugin für SVNR in OneWare")
+#ax.set_title("Entwicklung und Integration eines benutzerfreundlichen Debug-Plugins für den SVNR auf einem FPGA-basierten Zielsystem in die OneWare Entwicklungsumgebung")
+#ax.set_title("Entwicklung und Integration eines Debug-Plugins für den SVNR auf einem FPGA-basierten Zielsystem in die OneWare Entwicklungsumgebung unter Nutzung des GNU Debug Servers (GDB-Server)")
+ax.set_title("Konzeption, Entwicklung und Integration eines Debug-Plugins für den SVNR auf einem FPGA-basierten Zielsystem in die OneWare Entwicklungsumgebung")
 
 plt.xticks(rotation=45)
 plt.grid(True, axis="x")

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa7e2f2e-a094-4c2e-8e9e-e2aa942a7a7a" name="Changes" comment="post content">
+    <list default="true" id="fa7e2f2e-a094-4c2e-8e9e-e2aa942a7a7a" name="Changes" comment="deleted &quot;Umzug&quot; poll">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776787435097</updated>
       <workItem from="1776787442349" duration="124000" />
-      <workItem from="1776787575613" duration="1171000" />
+      <workItem from="1776787575613" duration="1882000" />
     </task>
     <task id="LOCAL-00001" summary="post content">
       <option name="closed" value="true" />
@@ -92,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776787695190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed workspace.xml&#10;added .idea for JetBrains Env">
+      <option name="closed" value="true" />
+      <created>1776798368177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776798368177</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deleted &quot;Umzug&quot; poll">
+      <option name="closed" value="true" />
+      <created>1776798482477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776798482477</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,9 +117,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="post content" />
-    <option name="LAST_COMMIT_MESSAGE" value="post content" />
+    <MESSAGE value="changed workspace.xml&#10;added .idea for JetBrains Env" />
+    <MESSAGE value="deleted &quot;Umzug&quot; poll" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted &quot;Umzug&quot; poll" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/gantt_bachelor$main.coverage" NAME="main Coverage Results" MODIFIED="1776798270833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gantt_bachelor$main.coverage" NAME="main Coverage Results" MODIFIED="1776798408260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
